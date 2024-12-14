@@ -3,6 +3,7 @@ phuongdong12tthsp.github.io
 <html>
 <head>
 <title>CHÀO MỪNG ĐẾN VỚI TRANG WEB CỦA PHƯƠNG ĐÔNG</title>
+ <meta charset = "utf-8" / >
 </head>
 <div style="background-image: url('https://i.imgur.com/Xs7NL0c.jpg');">
 <font weight = "600" height = "200" ><marquee direction="left" style="background:orange">CHÀO MỪNG ĐẾN VỚI TRANG WEB</marquee></font>
